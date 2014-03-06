@@ -1,0 +1,23 @@
+{
+  "name": "console.alert",
+  "version": "0.1.0",
+  "description": "An alert function for console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JohanObrink/console.alert.git"
+  },
+  "keywords": [
+    "console",
+    "alert"
+  ],
+  "author": "Johan Öbrink <johan.obrink@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohanObrink/console.alert/issues"
+  },
+  "homepage": "https://github.com/JohanObrink/console.alert"
+}
